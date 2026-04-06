@@ -29,7 +29,7 @@ public class Main {
                     FriendList.displayFriendList(scanner);
                     break;
                 case "2":
-                    //put pt3 here
+                    ConnectionSearch.displayConnection(scanner);
                     break;
                 case "3":
                     running = false;
